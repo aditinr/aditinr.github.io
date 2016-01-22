@@ -330,7 +330,7 @@ h2 {
   margin-bottom: 50px;
   text-align: center;
   text-transform: uppercase;
-  font-size: 64px;
+  font-size: 50px;
   font-weight: 200;
   line-height: 110%;
   letter-spacing: 5px; }
@@ -425,7 +425,8 @@ blockquote {
       -moz-transition: background-color 0.3s ease;
       transition: background-color 0.3s ease; }
     .services .col p {
-      font-weight: 300; }
+      font-weight: 300;
+      font-size: 16px; }
       @media only screen and (min-width: 601px) and (max-width: 992px) {
         .services .col p {
           margin: 0 auto 20px;
@@ -661,6 +662,17 @@ footer.page-footer {
   padding-bottom: 2px;
   padding-left:5px;
 }
+
+h3 {
+  margin-bottom: 50px;
+  text-align: left;
+  text-transform: uppercase;
+  font-size: 19px;
+  font-weight: 200;
+  line-height: 110%;
+  letter-spacing: 5px; }
+
+
 
 /***********************************************************************************************************************
 /*
